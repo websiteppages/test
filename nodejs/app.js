@@ -6,15 +6,6 @@ const bodyParser = require('body-parser');
 const port = process.env.PORT || 8080;
 const fs = require('fs');
 
-
-
-// ------- https redirect code -------------
-
-
-//-----------------------------------------------------------------------
-
-
-
     app.use(cors())
 
 
