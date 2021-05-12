@@ -1,2 +1,0 @@
-(this["webpackJsonpreal-estate"]=this["webpackJsonpreal-estate"]||[]).push([[18],{118:function(e,t,r){"use strict";r.r(t);r(1);var s=r(2);t.default=function(){return Object(s.jsx)("div",{children:Object(s.jsx)("p",{children:"The page you\u2019re looking for is not there"})})}}}]);
-//# sourceMappingURL=18.3cb89b85.chunk.js.map
